@@ -1,5 +1,5 @@
  
-{ "life_viz": {
+{ "life-viz": {
     "root": ".",
     "thumb": "makerchip/thumb.png",
     "desc": "Conway's Game of Life.",
